@@ -1,6 +1,6 @@
 ## Lexique du vocabulaire Web
 
-Ce lexique et creer afin de repondre a un devoir maison, mais aussi afin d'etre un atout lors des exercice. Aussi ce lexique est fait pour connaitre la definition des termes travailler en cours lors de cette premiere semaine de formation.
+Ce lexique et creer afin d'enrichir nos connaissances en developpement, mais surtout reste atout majeur lors des exercices a faire. Aussi ce lexique est fait pour connaitre la definition precises des termes travailler en cours de formation.
 
 
 ## Lexique
