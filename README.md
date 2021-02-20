@@ -27,4 +27,10 @@ Ce lexique et creer afin de repondre a un devoir maison, mais aussi afin d'etre 
 
 4. Fourth item : **github** : Serveur decentralise d'hebergement et de gestion de logiciels ou l'on peut deposer se projet en securite et ou l'on peut partager nos projet avec d'autres developpeurs.
 
+5. fifth item **html** : Language dont le role est de formaliser l'ecriture d'un document avec des balises de formatage.Les balises permet d'indiquer la façon dont doit etre presenter le documents et les liens>
 
+6. sixth item **Javascript** : Language dez programmation dynamique qui applique a un document HTML peut fournir une interactivite dynamique sur les site Web.
+
+7. seventh item ** Ligne de commande** : interface de communication entre l'homme et la machine ou sont passer les commandes au terminal.
+
+Afin de travailler ma branche dev j'ecrit ce petit mot pour remercier Thomas pour mon integration. Car sans son appel et sa volonte de me faire commencer la formation en meme temps que tout le monde cela aurait impossible pour moi de ratrapper ce retard. J'ai hate de tous vous rencontrer lors de ma rentrer en formation.
