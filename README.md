@@ -13,8 +13,18 @@ Ce lexique et creer afin de repondre a un devoir maison, mais aussi afin d'etre 
 
 3. Third item **client** : Machine de laquelle sont envoyee les instructions au serveur par le biais des navigateur.
 
-4. Fourth item ** php** : Language utiliser par le serveur afin de traiter la demande client.
+4. Fourth item **php** : Language utiliser par le serveur afin de traiter la demande client.
 
 5. fifth item **serveur** : lieux de traitement des demandes clients et ou sont stoker des information, des programmes et logiciels. Une fois la demande traiter par le serveur la demande est renvoyee aux client en code HTML.
+
+###LE FRONTEND
+
+1. First item **Css** : Language informatique qui permet de formater (mise en forme) du texte HTML ET XML. ( Cascade Style Sheets)
+
+2. Second item **Frontend** : Partie de devellopement visible par les utilisateurs par le biais de l'interface graphique une fois que le code html,css et javascript sont traitees par le navigateur.
+
+3. Third item : **Git** : git est un logiciel de versionning d'ou sont envoye les commande au terminal (INPUT) et d'ou l'on reçoit les operation demander au terminal (output).
+
+4. Fourth item : **github** : Serveur decentralise d'hebergement et de gestion de logiciels ou l'on peut deposer se projet en securite et ou l'on peut partager nos projet avec d'autres developpeurs.
 
 
