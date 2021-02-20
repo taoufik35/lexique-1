@@ -13,7 +13,7 @@ Ce lexique et creer afin de repondre a un devoir maison, mais aussi afin d'etre 
 
 3. Third item **client** : Machine de laquelle sont envoyee les instructions au serveur par le biais des navigateur.
 
-4. Fourth item ** php** : Language utiliser par le serveur afin de traiter la demande client.
+4. Fourth item **php** : Language utiliser par le serveur afin de traiter la demande client.
 
 5. fifth item **serveur** : lieux de traitement des demandes clients et ou sont stoker des information, des programmes et logiciels. Une fois la demande traiter par le serveur la demande est renvoyee aux client en code HTML.
 
